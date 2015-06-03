@@ -1,0 +1,68 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.form-login,
+.form-join {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.errors {
+    margin-bottom: 10px;
+}
+
+.errors ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+/* misc */
+.c {
+    text-align:center;
+}
+.l {
+    text-align:left;
+}
+.r {
+    text-align:right;
+}
+.full {
+    width: 100%;
+}
+
+.pa { position: absolute !important;}
+.pr { position: relative !important;}
+
+.fr {
+    float: right;
+}
+.fl {
+    float: left;
+}
+.ff {
+    overflow: hidden;
+	_height: 1px;
+	_width: 1px;
+}
+.hidden {
+    display: none;
+}
+.p {
+    padding: 4px;
+}
+.pp {
+    padding: 8px;
+}
+.ppp {
+    padding: 12px;
+}
+.top {
+    vertical-align:top;
+}
+
